@@ -16,7 +16,7 @@ public class Main {
                 }
 
             } else {
-                System.out.println("Ошибка. Нельзя вводить отрицательные значения!");
+                System.out.println("Ошибка. Нельзя вводить отрицательные значения! lalalalalalla (github test));
 
             }
 
